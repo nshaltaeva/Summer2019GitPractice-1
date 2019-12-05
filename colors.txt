@@ -11,3 +11,4 @@ silver
 rainbow
 cyan
 azure
+french rose
