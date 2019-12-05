@@ -12,3 +12,6 @@ rainbow
 cyan
 azure
 french rose
+cyber yellow
+gold
+
