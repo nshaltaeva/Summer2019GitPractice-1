@@ -9,3 +9,4 @@ pink
 white
 silver
 rainbow
+cyan
