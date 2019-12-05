@@ -10,4 +10,4 @@ white
 silver
 rainbow
 cyan
-12345
+azure
